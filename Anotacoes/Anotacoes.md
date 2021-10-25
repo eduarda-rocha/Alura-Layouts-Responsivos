@@ -67,3 +67,11 @@
     * Temos que lembrar que o nosso código talvez precise passar por outras pessoas e elas precisam entender o que está acontecendo quando ler nosso código;
 
     * Existem vários bots (ferramentas automáticas) que verificam todo o código do nosso projeto, e depois validam para mudar o posicionamento da nossa página nos resultados de motores de busca (ex: Google, Bing, Yahoo).
+
+## Aula 5 - Evoluindo do mobile ao desktop
+
+* Criar estilizações diferentes para diversos dispositivos com media queries;
+
+* Adaptar estrutura e conteúdo para layouts diferentes;
+
+* Progredir de um layout mobile até um layout para desktop.
