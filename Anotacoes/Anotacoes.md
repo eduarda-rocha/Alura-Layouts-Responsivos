@@ -53,3 +53,17 @@
 * Identificar a diferença entre unidades absolutas e relativas;
 
 * Analisar as limitações físicas de dispositivos.
+
+## Aula 4 - Trabalhando a semântica HTML 
+
+* Como lidar com as imagens do layout que recebemos;
+
+* Tags e atributos que têm mais função de semântica do que estilo;
+
+* A importância de escrever um código semântico:
+
+    * Temos que deixar nossa página mais inclusiva possível e para isso precisamos utilizar todas as tags corretas para demarcar todo o conteúdo da página corretamente;
+
+    * Temos que lembrar que o nosso código talvez precise passar por outras pessoas e elas precisam entender o que está acontecendo quando ler nosso código;
+
+    * Existem vários bots (ferramentas automáticas) que verificam todo o código do nosso projeto, e depois validam para mudar o posicionamento da nossa página nos resultados de motores de busca (ex: Google, Bing, Yahoo).
